@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E1DD7A-79F0-4D48-8046-E78F719D1A90}|Workaround\\Workaround.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E1DD7A-79F0-4D48-8046-E78F719D1A90}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC3EAFA-4A17-4A43-9920-6615ECE8BCBE}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4554CFCA-D6FE-47F4-9CE3-024843ECA2E4}|Entities\\Entities.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\mask_traking\\mask_traking_c#\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4554CFCA-D6FE-47F4-9CE3-024843ECA2E4}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:25:52.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:03:22.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:47:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:39:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBsAAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:58:30.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:38:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Mask_Traking\\Mask_Traking_C#\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:47:42.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
